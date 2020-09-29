@@ -4,7 +4,7 @@ Fullstack web developer and Javascript Enthusiast
 
 ### Language and Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='github' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='github' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nodejs.svg' alt='github' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='github' height='40'>] 
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisnupratama24)](https://github.com/anuraghazra/github-readme-stats)
 
