@@ -1,6 +1,6 @@
 ### Hi, I'm Wisnu Putra Pratama 👋
 
-Fullstack web developer and Javascript Enthusiast
+Fullstack Web Developer and Javascript Enthusiast
 
 ### Language and Tools
 
