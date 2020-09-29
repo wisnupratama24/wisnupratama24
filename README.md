@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<!--
-**wisnupratama24/wisnupratama24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## I'm Wisnu Putra Pratama
 
 Fullstack web developer and Javascript Enthusiast
 
+<!--
+**wisnupratama24/wisnupratama24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
