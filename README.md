@@ -3,7 +3,9 @@
 <!--
 **wisnupratama24/wisnupratama24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm Wisnu Putra Pratama
+
+Fullstack web developer and Javascript Enthusiast
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
